@@ -85,7 +85,7 @@
             </div>
 
             <div class="mb-5">
-                <label for="price">Price</label>
+                <label for="price">Price2</label>
                 <input type="text" class="
                     form-control
                     block
